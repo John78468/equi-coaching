@@ -1,0 +1,2 @@
+class Essai < ApplicationRecord
+end
